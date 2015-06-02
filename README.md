@@ -1,7 +1,7 @@
 # Lazada Objective-C Style Guide
 
 This style guide outlines the coding conventions of the iOS teams at Lazada. This code style is based on code style by NYTimes iOS team.
-Thanks to all of [our contributors](https://github.com/NYTimes/objective-c-style-guide/contributors).
+Thanks to all of [contributors](https://github.com/NYTimes/objective-c-style-guide/contributors).
 
 ## Introduction
 
