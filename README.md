@@ -476,9 +476,8 @@ When possible, always turn on “Treat Warnings as Errors” in the target’s B
 
 # Other Objective-C Style Guides
 
-If ours doesn’t fit your tastes, have a look at some other style guides:
+Other style guides:
 
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 * [GitHub](https://github.com/github/objective-c-conventions)
 * [Adium](https://trac.adium.im/wiki/CodingStyle)
 * [Sam Soffes](https://gist.github.com/soffes/812796)
